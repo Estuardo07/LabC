@@ -541,5 +541,6 @@ def Yalex_reader(archivo):
     show_tree(rule_token_regex_postfix, 'rule_token_regex')
 
 
+
 archivo = "slr-1.yal"
 Yalex_reader(archivo)
